@@ -1,0 +1,62 @@
+.job-card{
+background:white;
+padding:20px;
+margin:20px 0;
+border-radius:10px;
+box-shadow:0 0 10px gray;
+}
+
+table{
+width:100%;
+margin-top:30px;
+border-collapse:collapse;
+background:white;
+}
+
+th{
+background:#1976d2;
+color:white;
+}
+
+th,td{
+padding:12px;
+text-align:center;
+}
+
+input,textarea{
+margin-bottom:15px;
+}
+nav {
+  background: #1976d2;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding: 15px 30px;
+}
+
+nav h2 {
+  color: white;
+  margin-right: auto;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: #ffeb3b;
+}
+button {
+  background: #1976d2;
+  color: white;
+  border: none;
+  padding: 10px 18px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #0d47a1;
+}
